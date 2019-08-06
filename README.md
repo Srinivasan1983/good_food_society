@@ -6,10 +6,11 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-<p align="center">
+<p>
   <img src="https://github.com/Srinivasan1983/good_food_society/blob/master/images/veg1.PNG" width="200" height="400"/>
+  <img src="https://github.com/Srinivasan1983/good_food_society/blob/master/images/veg2.PNG" width="200" height="400"/>
 </p>
-<p align="center">
+<p>
   <img src="https://github.com/Srinivasan1983/good_food_society/blob/master/images/veg2.PNG" width="200" height="400"/>
 </p>
 
